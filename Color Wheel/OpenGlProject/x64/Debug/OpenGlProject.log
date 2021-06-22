@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\ITI\ITI Study\Computer Graphics\OpenGL\Projects\Color Wheel\OpenGlProject\Source.cpp(1,10): fatal error C1083: Cannot open include file: 'glew/glew.h': No such file or directory

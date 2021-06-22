@@ -1,0 +1,9 @@
+--Draw a cube with a different color for each face using indexed buffer
+
+--Draw a sin wave the can be controlled from the shader side, the program should define set of points that all have Y-value = 0, and the shader should change the Y-value of the point based on the x-value to form a sin wave shape.
+
+
+--Create a line drawer (similar to paint), in which the user can draw line by pressing mouse left key and move the mouse, once the user release the mouse left key the program should stop drawing, user can draw multiple segments which shouldn't be connected
+
+--Draw a triangles based color wheel, in which each triangle has a different color
+
